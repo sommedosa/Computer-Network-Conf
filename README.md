@@ -1,6 +1,6 @@
 ## CN320 Computer Network Configuration
 ### Course Description
-    Fundamental concepts for network configuration and design. Topics include fundamentals of TCP/IP network, packet capture and monitoring, operation with networking equipments such as router, IP routing, virtual LAN, IP access control, network address translation and basic network design.
+   Fundamental concepts for network configuration and design. Topics include fundamentals of TCP/IP network, packet capture and monitoring, operation with networking equipments such as router, IP routing, virtual LAN, IP access control, network address translation and basic network design.
 
 ### Teaching Schedule: 
 | Week | Topics | 
@@ -22,19 +22,19 @@
 | 15 | DHCP, Network Address Translation for IPv4 |
 
 #### Reference: 
-    https://www.netacad.com/
+   https://www.netacad.com/
 
 #### Course Assessment: 
-    Examination: 	Midterm 25 % 
-                  Final 25 % 
-    Assignment: 	50 %
+   Examination:  Midterm 25 % 
+                 Final 25 % 
+   Assignment: 	50 %
 
 #### Course Evaluation: 
-    A 	[86,100] 
-    B+ 	[80,86)
-    B 	[74,80)
-    C+ 	[68,74)
-    C	  [62,68)
-    D+ 	[56,62)
-    D 	[50,56)
-    F 	[0,50)
+   A 	[86,100] 
+   B+ 	[80,86)
+   B 	[74,80)
+   C+ 	[68,74)
+   C	  [62,68)
+   D+ 	[56,62)
+   D 	[50,56)
+   F 	[0,50)
