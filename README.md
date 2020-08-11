@@ -22,19 +22,19 @@
 | 15 | DHCP, Network Address Translation for IPv4 |
 
 #### Reference: 
-   > https://www.netacad.com/
+   1. https://www.netacad.com/
 
 #### Course Assessment: 
-   - Examination:  Midterm 25 % 
-                 Final 25 % 
-   - Assignment: 	50 %
+   1. Examination:  Midterm 25 % <br>
+                    Final 25 %  <br>
+   2. Assignment:   50 % <br>
 
 #### Course Evaluation: 
-   > A 	[86,100] 
-   > B+ 	[80,86)
-   > B 	[74,80)
-   > C+ 	[68,74)
-   > C	  [62,68)
-   > D+ 	[56,62)
-   > D 	[50,56)
-   > F 	[0,50)
+   > A 	[86,100]  <br>
+   > B+ 	[80,86) <br>
+   > B 	[74,80) <br>
+   > C+ 	[68,74) <br>
+   > C	[62,68) <br>
+   > D+ 	[56,62) <br>
+   > D 	[50,56) <br>
+   > F 	[0,50) <br>
