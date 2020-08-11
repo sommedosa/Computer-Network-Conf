@@ -26,9 +26,9 @@
 
 #### Course Assessment: 
 |:--:|:--:|:--:|
-| 1. | Examination: | Midterm 25 % |
-|:--:|:--:| Final 25 % |
-| 2. | Assignment: | 50 % | 
+| 1. | Examination | Midterm 25 % |
+| | | Final 25 % |
+| 2. | Assignment | 50 % | 
 
 #### Course Evaluation: 
 |:--:|:--:|
