@@ -25,14 +25,16 @@
    1. https://www.netacad.com/
 
 #### Course Assessment: 
-| 1 | Examination | Midterm 25 % |
+| No. | Method | Score | 
 |:--:|:--:|:--:|
+| 1 | Examination | Midterm 25 % |
 | | | Final 25 % |
 | 2 | Assignment | 50 % | 
 
 #### Course Evaluation: 
-| A | [86,100] |
+| Grade | Score |
 |:--:|:--:|
+| A | [86,100] |
 | B+ | [80,86) |
 | B | [74,80) |
 | C+ | [68,74) |
