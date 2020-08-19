@@ -4,7 +4,7 @@
 
 ### Teaching Schedule: 
 | Week | Date | Topics | Slide | Labs | Assignments |
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | 13 Aug | Introduction, Exploring the Network | ITN Ch1 |  |  |
 | 2 | 20 Aug |	Configuring a Network Operating System | ITN Ch2 | ITN: PT 1.2.4.4, 2.1.4.6, 2.2.3.4, 2.3.2.5 |  |
 | 3 |	27 Aug | Network Access, Ethernet | ITN Ch4, Ch5  | ITN: Lab 2.1.4.7, 2.3.3.3, 2.3.3.4 | ITN: PT 2.4.1.2 |
